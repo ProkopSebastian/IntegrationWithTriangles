@@ -1,2 +1,2 @@
 # IntegrationWithTriangles
-More description to be done in the future
+Numerical method approximating a double integral using triangles method. Full description and analysis can be found in .pdf file and the main function is P1ZSPR_Integrangles.
